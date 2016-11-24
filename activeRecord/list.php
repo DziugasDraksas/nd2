@@ -13,13 +13,6 @@ require_once ('Books.php');
 
 $books =  new Books();
 
-$books->load();
-var_dump("asd");
-
-
-
-
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
